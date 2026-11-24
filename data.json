@@ -1,1 +1,7 @@
-
+[
+  {"id": 1, "title": "Основы Python", "category": "учёба", "amount": 10, "completed": true},
+  {"id": 2, "title": "Работа со списками", "category": "учёба", "amount": 5, "completed": false},
+  {"id": 3, "title": "Олимпиадная задача", "category": "практика", "amount": 20, "completed": false},
+  {"id": 4, "title": "Разбор чужого кода", "category": "практика", "amount": 8, "completed": true}
+]
+Ожидаемая статистика: всего 4, выполнено 2, не выполнено 2, сумма баллов 43, по категориям: практика: 28, учёба: 15.
